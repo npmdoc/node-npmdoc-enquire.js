@@ -1,4 +1,7 @@
-# api documentation for  [enquire.js (v2.1.6)](http://wicky.nillia.ms/enquire.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-enquire.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-enquire.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-enquire.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-enquire.js)
+# npmdoc-enquire.js
+
+#### basic api documentation for  [enquire.js (v2.1.6)](http://wicky.nillia.ms/enquire.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-enquire.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-enquire.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-enquire.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-enquire.js)
+
 #### Awesome Media Queries in JavaScript
 
 [![NPM](https://nodei.co/npm/enquire.js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/enquire.js)
@@ -80,7 +83,8 @@
         "test": "grunt test",
         "version": "grunt build && git add ."
     },
-    "version": "2.1.6"
+    "version": "2.1.6",
+    "bin": {}
 }
 ```
 
